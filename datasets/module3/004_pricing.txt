@@ -1,0 +1,69 @@
+In this module, we will discuss
+Pricing in more detail. All companies, all businesses have to
+make a pricing decision. Pricing is one of
+the four key Ps that Professor Khan discussed
+earlier in her opening module. So first let's talk a little bit about the importance of pricing, and why pricing is a
+key driver of profits. This study was done by
+McKinsey many years ago and we replicated it
+in our book Smart Pricing more recently using data from Wharto's which is
+a Wharton Data Service. So what this study
+does is it looks at the improvement
+in your bottom line. If you were to change or improve
+either your fixed costs, your sales volume, your
+variable cost or your price. So think about it
+as the following; let's say we were to look
+at all S&P 500 companies in the US and create a combined income statement
+of all 500 companies. So once we have that combined
+income statement we say, "Okay if these companies were to lower their fixed
+cost by one percent, what would happen to
+their operating profits?" The answer is they will
+improve by 2.3 percent. What if these companies could increase their sales
+volume by one percent? What would we the response
+on the bottom line? It will be little more
+than three percent. What if these
+companies could reduce their variable cost
+by one percent, what would be the impact
+on the bottom line? Well close to eight percent. What if these companies could improve their price
+by one percent, what would be the impact
+on the bottom line? The answer is close
+to 11 percent. So if you look at all the levers or drivers that are
+available to a manager, improving your pricing has the biggest impact
+on the bottom line. We have known this for a while and many good managers have
+known this for a while, but now you combine it with
+the next piece of data. When it comes to
+managers perceptions as to what they are
+better informed about, what do they focus on? Well if you look at variable cost that's the highest
+thing people focus on. Number two is fixed costs, number three is
+comparative prices and then when you look at pricing, those numbers are much lower
+than the first few numbers. So what does that mean? Even though people realize
+that pricing is one of the most important drivers
+the knowledge about how to use and execute on pricing is limited and
+can be much better. I think this highlights the
+importance of all of us learning a little bit more about pricing and becoming
+better pricers. There's a very nice
+Russian proverb that I often share with my
+students in the class. "There are two kinds of
+fools in any market. One who charges too much and the other who
+charges too little." Now there are many ways to
+interpret this proverb. One way to interpret this is, well everyone's a fool, because nobody can be charging
+the exact right price. There's another way to
+interpret this proverb which I think is a more
+appropriate way. What it's really trying to say is that good pricing
+is a balancing act. In order to achieve
+the right balance, we need to be cognizant of a
+number of different areas. We need to understand economics because pricing
+is about economics. We also need to
+understand psychology both consumer psychology as well as psychology of people who
+made pricing decisions, because human beings
+make pricing decisions and human beings respond
+to pricing decisions. In this age and also
+in any other age, the knowledge of statistics
+is very important. You need to be able
+to manage data, you need to be able
+to analyze data. You need to have a
+good understanding of operations research which means you need to learn how
+to optimize given some data. These days you need some
+basics about computer science, and you also more importantly need a lot of courage because good pricing decisions are not made by changing the price, they are made by changing the pricing strategy
+in a company. Also a good pricing
+requires common sense. So it's a combination of all these various areas that help us improve
+our pricing decisions.

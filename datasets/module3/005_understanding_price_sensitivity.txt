@@ -1,0 +1,158 @@
+A key to making good
+pricing decisions is understanding the concept of price sensitivity and
+price elasticity. In this module, we'll focus on this particular aspect
+in more detail. We'll do it in two parts. In the first part
+we'll think about, what drives price sensitivity
+or price elasticity. In other words, under
+what conditions are consumers more or
+less price sensitive. If we know this, we get some useful
+directional guidelines on when to price higher
+and when to price lower. The next part of this
+module we'll talk about formal methods of measuring price elasticity and of
+course before we do that, we'll define formally what
+price elasticity means. So let's start with the first one are drivers of price sensitivity. These are things we know from previous research and
+previous observations and our fairly robust findings. So what are the things
+we're going to focus on? We're going to focus on
+seven different drivers of price sensitivity starting
+with the availability and awareness of sub shoots
+hence It's not very complicated to recognize that if your product has
+more substitutes, people will be more
+price sensitive. This is very straightforward
+more substitutes that exist, greater will be the
+price sensitivity. What is important is it's
+not just the availability of substitutes even awareness
+of substitutes matters. For example, I live
+close to Philadelphia, I work in Philadelphia. So I know a lot of
+restaurants in Philadelphia. If I'm pretty sensitive
+about where to eat, I have good information
+of various restaurants, there price, I'll be
+more price sensitive. But if I go on a vacation, let's say I go on a
+vacation to Paris or another city which I'm
+not very familiar with, I don't know many restaurants there I'll be less
+price sensitive. Probably there are
+more restaurants in Paris than there
+are in Philadelphia. So there are more substitutes
+available in Paris, but my price sensitivity
+in Paris is going to be lower because I'm not
+aware of all of them. Another important
+concept to keep in mind is it's not just
+availability and awareness. How easy it is for us to make direct comparisons makes price sensitivity
+higher or lower. Let me give you an example
+from my own research. I do lot of work on private
+labels at generics. [inaudible] talked
+about private labels earlier also in her module. Private labels command
+a very high share in the US market. Not just because they are priced lower than major national brands, but because they are
+kept right next to major national brands
+on the same shelf. So consumers can easily see
+that national brand say, Tylenol cause this
+much and as you know morphine produced by Walmart or sold under the Walmart name, costs much less and they are
+kept right next to them. Many people choose
+the store brand. Think of the following scenario, suppose all these store brands were put on a separate
+shelf in the store, just like genetics were put on a separate show a shelf many
+years ago in some stores. If all the private labels of various categories were taken out and put on a separate aisle in another
+part of this store. One of our papers that we did for a company indicated
+that the share of private labels will
+fall by 10 percent. So it's not just the availability of private labels,it's
+the ability to compare the private label price
+with the National band in a very easy way that increases
+our price sensitivity. Availability of substitutes, awareness of substitutes
+and then how easy it is for us to compare the
+price of one product against another and even small changes there make a big difference
+in price sensitivity. Another important driver
+of price sensitivity that we've observed is what is the total expenditure on the
+product and also what is the total expenditure
+on this product as a fraction of
+your total costs? So let me give you
+examples of both. If you spend more on a product or a service you're going to
+be more price sensitive. Bigger families are more sensitive to the
+price of groceries. Why? Because for a bigger family their expenditure on groceries is a bigger part of their budget. They are more price sensitive. So if you spend more
+on a product or service here usually
+more price sensitive. What is also interesting
+is the same product. If it's a bigger part
+of your cost structure, you'll be more price sensitive. But if it's a very small
+part of your cost structure, you'll be less price sensitive. So let's say if I'm
+making a steel furniture, I'll be more sensitive
+to the price of steel. Then somebody who makes wooden furniture and
+uses steel nails. Steel is still steel, but the cost of
+nails as a fraction of the total cost
+is much smaller for somebody who makes
+wooden furniture as compared to the price of steel that goes into steel furniture. Even though we have
+the same metal steel, the person who's more price sensitive to the
+steel is the person who makes a steel furniture as opposed to the person who
+makes wooden furniture. Now this one's not
+very surprising. If somebody else is sharing
+a part of the bill, you are going to be
+less price sensitive. So people observe this, that if your company is
+paying for your airfare, you will probably
+not as search as much for a lower cost to flight. How do you tackle that? Well you may want to
+give you an employee some incentive in terms of some shared benefit if they
+are finding a lower price. Another example is, when you are a human pharmaceuticals
+or the products that you buy in a pharmacy
+when they are covered by insurance you're likely to be less
+price sensitive. How do companies encouraged
+people to become more price sensitive and
+buy the cheapest product? If you go through the insurance company and lower the price, let's say if a drug costs a $100, insurance company pays 80
+percent you pay only 20. You're going to pay 20 and the insurance
+company picks up 80. If you lower the price from
+100-50, what will happen? You will pay 10 instead of 20. Who's getting the
+biggest advantage? It's the insurance company. But if you can give a direct
+to consumer discount, then the consumer sees a bigger
+benefit of that discount. So whenever you have shared
+expenses and you want the consumer to actually
+be more price sensitive, you give a direct to
+consumer discount as opposed to lowering the
+price of the product directly. You're switching costs
+affects price sensitivity. So if I already have a big car, a big SUV for example I have a V8 SUV that I've
+won for 10 years. It still works well
+so I don't change it. Even though my kids tell
+me to buy a new one. But because I already
+have a big SUV, when the price of
+gasoline increases, I still fill it up. I'm not very price sensitive to it even though I wanted to be, I have no choice because I
+get only 15 miles per gallon. If I were able to change my car, then I would become
+more price sensitive, but I'm stuck with
+a particular car or a particular SUV in this case. So when the price of
+gasoline changes, my behavior doesn't change I still have to go to the office every day of the week I pretty
+much go six days a week. I still consume as much gasoline as I did even when
+the price was lower. An area that is also
+important to think about is price quality
+relationships. There are many product
+categories where consumers inferred the quality of the
+product from the price. So for many people say perfumes
+is one example of that. Let me give you
+some more examples that maybe even more relevant. Consulting services,
+legal services, choice of a doctor, financial advisors or
+retirement planning. In all these cases, what we find is people infer quality of the
+product from the price. Why is that? What's
+the common driver? The common driver here
+is consumers lack of knowledge about the
+product or the service. I don't know who's the best legal professional because I don't use
+them very often. But if I have somebody
+who's really cheap, I might infer from their lower price that
+they are not very good. Fair as somebody who charges a lot maybe better because why? Because if other
+people are willing to pay more for them,
+they must be good. I'm not very knowledgeable
+about this service and if I find that the market
+is willing to pay more for them, they must be good. This is consumers lack
+of knowledge that drives the price quality relationship
+because the cost of error is very high and
+all these settings. Price quality
+relationships happen in other areas too with
+a very similar idea. The same wine when
+price differently. People think that the wine that is more expensive is better. Again, this happens more with novice wine drinkers as opposed to knowledgeable
+wine drinkers. Knowledgeable wine
+drinkers will not show as much price quality
+effects as novices. By the way we have seen many studies which
+are brain scans, where for novice drinkers you see this effect
+very strongly. Another area that affects consumers price sensitivity is their ability to carry inventory. If a consumer can buy an
+advanced for future consumption, they can take advantage
+of lower prices. They become more price sensitive. If a consumer is not
+able to carry inventory, for example say
+products like milk, fresh vegetables that you can't store them for a long time, people are less price sensitive because when the
+product is on sale, you can't buy it for the
+next months of consumption. Whereas for cereal and
+many other products, people find that if the product is on
+sale people buy a lot more of it because they can store the product for
+future consumption. So these are some of the
+instances where we see people becoming
+more or less price sensitive based on the
+scenario they face.

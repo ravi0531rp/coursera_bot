@@ -1,0 +1,240 @@
+In this module, we'll focus on a very important concept
+called the economic value to the customer. In short we often refer
+to this as EVC also, this concept can be very
+useful on a number of things. One, it helps us set a price for
+a new product or a new service that you are planning
+to take to the market. It is also useful to identify whether or
+not this new idea, new product or new service you
+have is economically worthwhile. It can be used also very
+effectively to decide who or which type of customers
+you want to target. You may recall Professor Khan's spoke
+about segmentation and targeting, and we can use economic value to
+the customer to help make these decisions in a sound manner. It also helps us identify who
+your true competition is and what is their relative economic power. It also is just as useful about
+helping you rethink about how to price what you
+already have on the market. So let's let's start with the small case
+study, this is a very popular case study. It was written by me and
+it's used extensively at Wharton, and it uses my own personal example. So we used to have a swimming
+pool in our house and every winter I used to worry
+about what to do with the pool. The pool was about 20,000 gallons and
+it was in my backyard and every winter, the water would
+get dirty and then next spring. I'll have to clean up the water
+run the filter for many hours and I didn't like that. So, what I did was something simpler,
+every fall or late fall, I used to just drain
+the entire water of the pool and then refill it again in the spring. The problem with this method was that my
+suburb has very strict laws regarding water disposal, so I can't just
+throw the water on the street. So I have to have a township truck that
+comes and takes the water away, and this township track charge is roughly $1 per
+a thousand gallons of swimming pool water. And then come next spring when
+I have to refill the pool, I have to get fresh water,
+which I think I just put the tap on and that is about $1 for each 100 gallons. There are many times I've thought
+about not refilling the pool, but if I did that my kids would never talk
+to me again, so I have to refill it. I gathered many years ago that there was
+a new product on the market that was very easy to use. All you do is drop the tablet
+in the pool water and put your safety cover on which I had
+to do anyway, whether I drained or not because if I don't have the safety cover
+on my guess would fall into the pool. So the idea was to just take
+the cover off next spring, and the claim from the inventor of
+the new tablet was that the pool will be sparkling clear in the spring
+just as it was the day I closed it. So I think the question to ask is, we have a new innovation that will
+help professor Raju do is job faster, better, how much would he be willing
+to pay for this little tablet? So, this is where economic value to the
+customer comes in as a very handy tool. So let's look at Profesor Raju's
+cost of draining the pool, so it's $1 per 1000 gallons it's
+20,000 gallons, so that's $20. Then refilling the pool as $1 per
+100 gallons, that's 20,000 gallons, which is $200, so
+you put the two together, it's $220. Now let's let's start thinking a little
+bit more about what this 220 means and what is its economic significance. If the tablet is priced more than 220 and
+somebody comes to me and says, it's price is say 240,
+what am I likely to say? Say most likely what I will say is
+that the current method is cheaper, I am not interested in this new idea. If the product happens to be priced
+at less than 220, I'll probably show some interest, but if it's priced exactly
+a 220 I'm going to say in my mind. I am indifferent between the existing
+technology which is throwing the water away and refilling I'll call that as
+a method of working or a technology, and the new technology which
+is using the tablet. So what is the meaning of
+economic value to the customer? What it means is, trying to identify a
+price at which the customer is indifferent between their existing
+method of doing things, and the new idea that is being proposed. So as far as this tablet is concerned,
+its economic value to the customer which in this case
+happens to be me is exactly $220, assuming we have done
+everything correctly. So what can this be used for? It can be used now for many things, it's
+a useful input our pricing decisions for example, we already discussed this. This is the maximum price,
+I might be willing to pay, and so this is the maximum price
+the innovator of the tablet or the inventor of the tablet
+will be able to charge. Now if the maximum is not good enough
+to make your financials work now, we're thinking about
+the inventor of the product. Then the new product you have is
+probably not worth taking to market. So it helps in a go-no-go decision and we'll talk about this
+quite a bit later also. Now let's think about another issue that
+this can be very useful for which is, who are your best customers and
+who you should target? Again, this is going back to Professor
+Khan's session on segmentation and targeting. Using the analysis we just did,
+can we identify who will be willing to pay more for
+the new tablet based on our analysis? So when asked this question from my
+students and also senior executives, the first answer I get always
+is those who have bigger pools. Well, that is true if the same tablet
+works for 30,000 gallons also, then the homeowner who has a 30,000
+gallon pool will be willing to pay more. Assuming they are of the same type then
+instead of 220 it will become 330. But then there is a next question when
+it comes to segmentation and targeting, which is how will you find
+out who has a bigger pool? And when I ask this question most
+of my students remain silent, because pools are in the backyard and
+if I am this inventor of this tablet, how would I know who has a bigger pool or
+a smaller pool? Sometimes a clever student will say
+professor, I can look at Google Maps and see who has a bigger pool. But at least we know it's not easy to
+identify who has a bigger pool and who has a smaller pool specially
+when you are new in the market. So I think it's very important to
+recognize that while size of the pool is a good segmentation variable,
+identifying who has a bigger pool and who has a smaller pool is very hard. So conceptually it's a good
+segmentation variable but in practice it will not work as well. So now let's think of a second answer, those who live in areas where the cost of
+water disposal or fresh water is high. Now that will be easier to
+identify because going back to our session on segmentation, this
+will be segmentation based on geography. Certain zip codes will have
+a higher cost of disposal, certain zip codes may have zero cost of disposal,
+so this is very easy to identify. So now we can now segment
+customers based on geography, based on the cost of water disposal or
+the cost of fresh water. So it gives us an idea as to
+how to segment the market, and then also decide who to target. There is another possible answer that
+I often get when asked this question, and and students will often say professor. Why don't we talk at those who
+are more environmentally conscious? So my response always is, how do we define
+who's more environmentally conscious? And and the economist answer to that is,
+for those whom the market price of resources does not truly
+reflect their societal costs. People who are environmentally conscious,
+that's a very nice and a sextant definition. But then I ask my students, how would you
+know who's more environmentally conscious and who's less environmentally conscious? Do environmentally conscious people
+live in certain types of homes, do they wear a green t-shirt? And and usually the response is professor,
+yeah, it's a good idea to go after environmentally conscious people, but
+it's very hard to identify who's who. So in summary the computation of
+EVC also gives us some insights into how to segment the market and
+who to target, and these are all key decisions in
+developing a good go-to-market plan. Another area that we can focus on in this
+very domain is, trying to combine what Professor Fader talked about which
+is customer lifetime value, and the concept that we discussed just now
+which is economic value to the customer. Let's think of the following
+two by two table, you can have customers who have a low CLV,
+professor Fela talked about some of those. And customers who have a high CLB and
+he talked about some of those also. Now we just learned this concept economic
+value to the customer, some customers may value the tablet higher,
+some customers may value the tablet lower. So now we have this 2 by 2 gives
+us four possible scenarios, so let's identify these scenarios and
+see their managerial usefulness. I think the obvious one is the ones in
+the low low box, the lower box is these people are not interested in us,
+why they are not interested in us? Because they don't value our product, and
+they're also not interesting to us, why? Because they have a low customer lifetime
+value, these maybe people who use the tablet once every five years,
+they also don't value the tablet. So these are obviously
+customers we will not target, now look at the bottom right box. These are the people who are interested
+in us and also interesting to us, why are they interested in us? Because they have a high economic value to
+the customer, they value our product and services, higher and
+why are they interesting to us? Because their customer lifetime value
+is higher, these will be obviously the segment's to go after this will
+be the best segment to target. But now let's look at
+the two cross diagonal boxes. Low customer lifetime value, but
+high customer economic value, these people are interested in us. But costly to deal with,
+why are they costly to deal with? Because they have a very low
+customer lifetime value, they probably don't buy as frequently,
+they ask a lot of questions, they need a lot of help, but
+they do value our products. So their economic value to
+the customer is high, but the CLV is low, and
+then look at the lower left side. The lower left side is interesting but
+not interested in us, why are they interesting? Because they have a high
+customer lifetime value, and why are they not interested in us? Because they don't value our product
+maybe they have smaller pools, or they'd rather do their work themselves. So I think this combining of
+customer lifetime value concept that Professor Fader described
+very vividly and very nicely. Combine that with this concept of economic
+value to the customer that we just discussed, I think you
+put these two together. It gives you a very deep insights
+into your customer base of the types that we typically don't think about, which is two variables,
+interested in us or interesting to us. And when you combine these two, I think it really gives you deep
+insights about your customer base. And we use this extensively in deciding
+which customer groups to target and which ones not to target. Now, let's ask another question,
+what else can we use EVC or economic value to the customer for? We can also use it to identify
+who our true competition is and what their response might be
+when we launch a new idea. So, let's say we are thinking of
+the person who invented this tablet and you ask the question,
+who will this person compete with? And the typical answer you will get is,
+other people who make such tablets or those who might make such
+tablets in the future. That's a good answer, but
+I don't think it's a great answer, I think we can do better. And a better answer begins by
+redefining what is competition, a broader in my view if not a better
+view of defining competition is, who all will suffer if we succeed? So let's think about that,
+if our new tablet becomes successful and people like professor Raju start
+to use it, who will lose business? Well the first person who lose business
+is companies that take the water away companies that haul the water away, why? Because now people like Professor Raju
+will not have companies haul the water away because they all
+they do is put the little tablet. Water companies that supplies water
+will also have low business because now their billings will go down. So whenever we take
+a new idea to market or a new product to market,
+value shifts from one industry to another. And the concept of economic value
+to the customer helps us identify where will the y-value migrated from? It's not about one tablet
+competing against another tablet, it's the launch our tablet takes money
+out of certain other industries. And once we identify where
+the value is going to migrate from, we know they are going to respond in
+some way to prevent that from happening. So we can expect some response for
+those who lose if we win, and this I believe gives us a broader
+understanding of who our competitors are. These are people who lose when we win,
+again economic value to the customer gives us some insights
+into their value gets migrated from. We talked a little bit about making
+go-no-go decisions using economic value to the customer, so let's get back to
+that in a little bit more detail. We can define the value of an idea by
+estimating the value it creates for the company. Let's assume for the moment that
+all customers are exactly like me, then each will be willing to pay
+a maximum of $220 for the tablet. If we were told that the cost
+of the making this tablet is $240 per tablet, and
+you put 220 next to 240. It's not rocket science to conclude
+that this is not a very useful idea, because it costs two and
+forty dollars to make but the maximum that a customer is
+going to be willing to pay is $220. But what if we were informed that the cost
+of making this tablet is only $20? Then the company has created or the innovator has created a value
+which is $200, which is 220 minus 20. Now, this is the value we
+can now put to work, and more on this as we go forward in
+terms of improving pricing decisions. So, let's say the economic
+value as we computed is 220, the cost is 20 in this chart, I have drawn to 20 at the top and
+20 at the bottom. And let's say we are hypothesizing
+a price of $100, if you are hypothesizing
+a price of $100 and we put a hundred on this chart,
+what inside does it give us? Well, it tells us that we are giving
+the customer $120 incentive to switch from whatever they are doing
+today to this new method of working, and the inventor of the tablet
+is going to get a margin of $80. Where am I getting $80 from? It's 100 minus 20, and
+where am I getting 120 from? It's 220 minus 100 remember
+professor Raju it costed him $220 to keep the pool
+fresh by spraying. Now if the price of the tablet
+is 100 he's going to save $120, now if we shift the price higher or lower, let's say we increase the price 140,
+what are we really doing? What we are doing is balancing
+the incentive given to the customer against the margin for
+the inventor of the product. So in this particular framework,
+price comes a sharing rule, a rule by which we decide how much of
+the created value is shared between the inventor and the customer. And it's a very useful way of thinking
+about making good pricing decisions. We could now bring our channel
+partner in the analysis, the inventor of the tablet is not going to
+go to people I professor Raju directly but maybe go through a store
+a swimming pool store. Then we have to keep
+their interest in mind, let's say we charge a price of
+$70 to our channel partner. And the general partner then charges
+a price of $100 to the end user. The channel partner is going to make $30, is the $30 margin per tablet good
+enough for the channel partner? Well, how will we answer that question,
+what are his or her other alternatives? What can he sell that will give
+him $30 maybe more than that? If there are many things that
+he can sell that will give more than $30 then $30 is not enough. But it helps us identify each
+person's incentives, and then the next question we ask ourselves
+is, have we created enough value. Or has the innovation created enough
+value to keep all three parties happy? Our channel partner our end user would
+they be interested in switching to us? And also ourselves,
+is it enough of a margin to us? If the difference between the cost and
+the EVC is not very high, then it's unlikely that all three
+parties are likely to be happy, and the innovation is not likely to succeed. So in summary, what do we learn from
+economic value to the customer, and what can it be used for? First, it helps us set a price for
+a new product or service that you're planning to
+take to the market, number two and equally important decision, if not more
+important is who you should target. Remember professor Khan spoke about
+segmentation and targeting, we can use EVC to actually bring that to life and help us
+make these decisions in a sound manner. It also helps us identify who your true
+competition is and their economic power, and then correspondingly whether the new
+idea you have is economically worthwhile. Do you have enough for
+our channel partners? That's another area that this concept
+can help us answer a few questions. And the analysis here is useful whether
+you are thinking of taking a new idea to market. And in my view, it's equally useful
+when you already have a product or a service on the market, and you want to rethink about how to price
+what you already have there in the market.
